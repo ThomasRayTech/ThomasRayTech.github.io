@@ -33,8 +33,8 @@
 title: Your awesome title
 subtitle: Your awesome subtitle
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the demo site for a Jekyll theme version of
-  HTML5 UP's sleek, responsive site template Prologue.
+  This is a personal portfolio, web-resume, and blog site built using a Jekyll theme version of
+  HTML5 UP's template Prologue.
 author: Thomas Ray
 email: tom-ray@outlook.com
 avatar: assets/images/avatar.jpg
